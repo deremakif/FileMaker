@@ -1,0 +1,9 @@
+﻿Timestamp	Filename	Error	Message
+2019-01-08 17:30:57.102 +0300	Contacts.fmp12	0	*** Started consistency check of improperly closed file, total of 88 block(s) to check
+2019-01-08 17:30:57.321 +0300	Contacts.fmp12	8432	Page 88 marked free but not in free list
+2019-01-08 17:30:57.419 +0300	Contacts.fmp12	0	Reset maximum block sequence number to 4751
+2019-01-08 17:30:57.518 +0300	Contacts.fmp12	0	*** Completed consistency check, checked 88 block(s)
+2019-01-08 17:52:46.338 +0300	Contacts.fmp12	0	*** Started consistency check of improperly closed file, total of 89 block(s) to check
+2019-01-08 17:52:46.635 +0300	Contacts.fmp12	8432	Page 89 marked free but not in free list
+2019-01-08 17:52:46.822 +0300	Contacts.fmp12	0	Reset maximum block sequence number to 4949
+2019-01-08 17:52:46.916 +0300	Contacts.fmp12	0	*** Completed consistency check, checked 89 block(s)
